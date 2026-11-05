@@ -1,0 +1,8 @@
+{
+  "appId": "br.com.vetflowcare.app",
+  "appName": "VetFlowCare",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": false, "webContentsDebuggingEnabled": false },
+  "backgroundColor": "#1e3a5f"
+}
